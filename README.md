@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @yassCan
-- 👀 I’m interested in JavaScript, html5, CSS3, React Native and Ionic
-- 🌱 I’m currently learning Nodejs
+- 👋 Hi, I’m @yassCan a full satck dev
+- 👀 I know in JavaScript, html5, CSS3, React Native and Ionic, python, typescript, Java, golang
+- 🌱 I am interested in Rust
 
 <!---
 yassCan/yassCan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
